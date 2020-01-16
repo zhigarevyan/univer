@@ -1,0 +1,10 @@
+0 simple 
+1 simple 
+2 simple 
+3 simple 
+5 simple 
+7 simple 
+11 simple 
+13 simple 
+17 simple 
+19 simple 

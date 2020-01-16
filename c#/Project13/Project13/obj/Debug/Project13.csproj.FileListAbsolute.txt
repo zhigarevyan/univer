@@ -1,0 +1,8 @@
+C:\Users\xiaom\Desktop\univer\c#\Project13\Project13\bin\Debug\Project13.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project13\Project13\bin\Debug\Project13.exe
+C:\Users\xiaom\Desktop\univer\c#\Project13\Project13\bin\Debug\Project13.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project13\Project13\obj\Debug\Project13.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project13\Project13\obj\Debug\Project13.exe
+C:\Users\xiaom\Desktop\univer\c#\Project13\Project13\obj\Debug\Project13.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project13\Project13\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiaom\Desktop\univer\c#\Project13\Project13\obj\Debug\Project13.csproj.CopyComplete

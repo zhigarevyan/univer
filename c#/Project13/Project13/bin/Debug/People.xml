@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <Person>
+    <name>Vasya</name>
+    <age>21</age>
+  </Person>
+  <Person>
+    <name>Kolya</name>
+    <age>22</age>
+  </Person>
+</People>

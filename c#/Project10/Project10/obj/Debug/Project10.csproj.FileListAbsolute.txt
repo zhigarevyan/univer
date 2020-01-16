@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project10\Project10\obj\Debug\Project10.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project10\Project10\bin\Debug\Project10.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project10\Project10\bin\Debug\Project10.exe
+C:\Users\xiaom\Desktop\univer\c#\Project10\Project10\bin\Debug\Project10.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project10\Project10\obj\Debug\Project10.exe
+C:\Users\xiaom\Desktop\univer\c#\Project10\Project10\obj\Debug\Project10.pdb

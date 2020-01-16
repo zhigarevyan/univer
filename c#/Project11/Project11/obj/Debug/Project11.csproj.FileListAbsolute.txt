@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project11\Project11\bin\Debug\Project11.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project11\Project11\bin\Debug\Project11.exe
+C:\Users\xiaom\Desktop\univer\c#\Project11\Project11\bin\Debug\Project11.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project11\Project11\obj\Debug\Project11.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project11\Project11\obj\Debug\Project11.exe
+C:\Users\xiaom\Desktop\univer\c#\Project11\Project11\obj\Debug\Project11.pdb

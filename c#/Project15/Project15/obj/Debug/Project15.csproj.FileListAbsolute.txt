@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project15\Project15\bin\Debug\Project15.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project15\Project15\bin\Debug\Project15.exe
+C:\Users\xiaom\Desktop\univer\c#\Project15\Project15\bin\Debug\Project15.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project15\Project15\obj\Debug\Project15.exe
+C:\Users\xiaom\Desktop\univer\c#\Project15\Project15\obj\Debug\Project15.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project15\Project15\obj\Debug\Project15.csprojAssemblyReference.cache

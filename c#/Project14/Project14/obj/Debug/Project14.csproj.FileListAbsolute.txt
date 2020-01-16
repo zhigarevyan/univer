@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project14\Project14\bin\Debug\Project14.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project14\Project14\bin\Debug\Project14.exe
+C:\Users\xiaom\Desktop\univer\c#\Project14\Project14\bin\Debug\Project14.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project14\Project14\obj\Debug\Project14.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project14\Project14\obj\Debug\Project14.exe
+C:\Users\xiaom\Desktop\univer\c#\Project14\Project14\obj\Debug\Project14.pdb

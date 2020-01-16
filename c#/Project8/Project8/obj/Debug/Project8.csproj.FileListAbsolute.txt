@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project8\Project8\bin\Debug\Project8.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project8\Project8\bin\Debug\Project8.exe
+C:\Users\xiaom\Desktop\univer\c#\Project8\Project8\bin\Debug\Project8.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project8\Project8\obj\Debug\Project8.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project8\Project8\obj\Debug\Project8.exe
+C:\Users\xiaom\Desktop\univer\c#\Project8\Project8\obj\Debug\Project8.pdb

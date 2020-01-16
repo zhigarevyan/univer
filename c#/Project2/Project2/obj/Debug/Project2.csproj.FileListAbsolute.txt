@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\xiaom\Desktop\univer\c#\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\xiaom\Desktop\univer\c#\Project2\Project2\obj\Debug\Project2.pdb

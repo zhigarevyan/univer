@@ -1,0 +1,7 @@
+C:\Users\xiaom\Desktop\univer\c#\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\xiaom\Desktop\univer\c#\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\xiaom\Desktop\univer\c#\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\xiaom\Desktop\univer\c#\Project1\Project1\obj\Debug\Project1.pdb

@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project9\Project9\obj\Debug\Project9.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project9\Project9\bin\Debug\Project9.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project9\Project9\bin\Debug\Project9.exe
+C:\Users\xiaom\Desktop\univer\c#\Project9\Project9\bin\Debug\Project9.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project9\Project9\obj\Debug\Project9.exe
+C:\Users\xiaom\Desktop\univer\c#\Project9\Project9\obj\Debug\Project9.pdb

@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\xiaom\Desktop\univer\c#\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project3\Project3\obj\Debug\Project3.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\xiaom\Desktop\univer\c#\Project3\Project3\obj\Debug\Project3.pdb

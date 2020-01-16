@@ -1,0 +1,6 @@
+C:\Users\xiaom\Desktop\univer\c#\Project7\Project7\obj\Debug\Project7.csprojAssemblyReference.cache
+C:\Users\xiaom\Desktop\univer\c#\Project7\Project7\bin\Debug\Project7.exe.config
+C:\Users\xiaom\Desktop\univer\c#\Project7\Project7\bin\Debug\Project7.exe
+C:\Users\xiaom\Desktop\univer\c#\Project7\Project7\bin\Debug\Project7.pdb
+C:\Users\xiaom\Desktop\univer\c#\Project7\Project7\obj\Debug\Project7.exe
+C:\Users\xiaom\Desktop\univer\c#\Project7\Project7\obj\Debug\Project7.pdb
